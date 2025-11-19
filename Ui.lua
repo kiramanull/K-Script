@@ -29,7 +29,7 @@ local IsMinimized = false
 local MinimizedBubble = Instance.new("ImageLabel")
 MinimizedBubble.Name = "MinimizedKBubble"
 MinimizedBubble.Size = UDim2.new(0, 50, 0, 50)
-MinimizedBubble.Position = UDim2.new(0, 20, 1, -70) 
+MinimizedBubble.Position = UDim2.new(0, 40, 1, -450) 
 MinimizedBubble.Image = "rbxassetid://421795165" 
 -- ✨ ĐÃ ĐỔI MÀU NỀN GIỐNG WINDOWFRAME
 MinimizedBubble.BackgroundColor3 = Color3.fromRGB(40, 40, 40) 
